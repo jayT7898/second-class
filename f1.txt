@@ -1,2 +1,4 @@
 concepts of git
 
+
+now i'm a developer 2 who is doing changes
